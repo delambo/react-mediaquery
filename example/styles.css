@@ -1,0 +1,26 @@
+
+.small {
+  min-height: 300px;
+  width: 100%;
+  padding-top: 100px;
+  background: pink;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.medium {
+  max-width: 600px;
+  margin: 0 auto;
+  background: orange;
+}
+
+.large {
+  max-width: 900px;
+  background: green;
+}
+
+.xlarge {
+  max-width: 1200px;
+  background: yellow;
+}
