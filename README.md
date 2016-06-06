@@ -25,7 +25,7 @@ A React.js experiment that lets you write declarative media queries in your jsx.
 
 ## Example
 
-Check out the [example](https://github.com/delambo/react-mediaquery/blob/master/example) which uses applies CSS Modules.
+Check out the [example](https://github.com/delambo/react-mediaquery/blob/master/example) which uses CSS Modules.
 
 ## Status
 
