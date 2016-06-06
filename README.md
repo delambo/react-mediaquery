@@ -11,7 +11,7 @@ A React.js experiment that lets you write declarative media queries in your jsx.
 
       <Responsive media={{
         '(min-width: 600px)': 'medium-content',
-        '(min-width: 900px)': 'large-content,
+        '(min-width: 900px)': 'large-content',
         '(min-width: 1200px)': 'xlarge-content',
       }}>
         <div class="small-content">
